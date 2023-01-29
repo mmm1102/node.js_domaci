@@ -1,0 +1,147 @@
+const recepti = [
+  {
+    id: 1,
+    naziv: "hleb",
+    glavniSastojak: "brasno",
+    vremePripreme: "180minuta",
+    status: "active",
+  },
+
+  {
+    id: 2,
+    naziv: "puding",
+    glavniSastojak: "mleko",
+    vremePripreme: "20minuta",
+    status: "active",
+  },
+
+  {
+    id: 3,
+    naziv: "supa",
+    glavniSastojak: "meso",
+    vremePripreme: "80minuta",
+    status: "inactive",
+  },
+
+  {
+    id: 4,
+    naziv: "sarma",
+    glavniSastojak: "kupus",
+    vremePripreme: "240minuta",
+    status: "active",
+  },
+  {
+    id: 5,
+    naziv: "corba",
+    glavniSastojak: "sargarepa",
+    vremePripreme: "40minuta",
+    status: "active",
+  },
+  {
+    id: 6,
+    naziv: "musaka",
+    glavniSastojak: "krompir",
+    vremePripreme: "100minuta",
+    status: "active",
+  },
+  {
+    id: 7,
+    naziv: "palacine",
+    glavniSastojak: "brasno",
+    vremePripreme: "40minuta",
+    status: "active",
+  },
+  {
+    id: 8,
+    naziv: "koh",
+    glavniSastojak: "griz",
+    vremePripreme: "45minuta",
+    status: "active",
+  },
+  {
+    id: 9,
+    naziv: "kiflice",
+    glavniSastojak: "brasno",
+    vremePripreme: "240minuta",
+    status: "active",
+  },
+  {
+    id: 10,
+    naziv: "pita sa sirom",
+    glavniSastojak: "sir",
+    vremePripreme: "140minuta",
+    status: "active",
+  },
+  {
+    id: 11,
+    naziv: "burek",
+    glavniSastojak: "sir",
+    vremePripreme: "90minuta",
+    status: "active",
+  },
+  {
+    id: 12,
+    naziv: "mafini",
+    glavniSastojak: "cokolada",
+    vremePripreme: "50minuta",
+    status: "active",
+  },
+  {
+    id: 13,
+    naziv: "spagete",
+    glavniSastojak: "testenina",
+    vremePripreme: "40minuta",
+    status: "active",
+  },
+  {
+    id: 14,
+    naziv: "burgeri",
+    glavniSastojak: "meso",
+    vremePripreme: "50minuta",
+    status: "active",
+  },
+  {
+    id: 15,
+    naziv: "sutlijas",
+    glavniSastojak: "pirinac",
+    vremePripreme: "60minuta",
+    status: "active",
+  },
+  {
+    id: 16,
+    naziv: "pilav",
+    glavniSastojak: "pirinac",
+    vremePripreme: "90minuta",
+    status: "active",
+  },
+  {
+    id: 17,
+    naziv: "riblja corba",
+    glavniSastojak: "riba",
+    vremePripreme: "110minuta",
+    status: "active",
+  },
+  {
+    id: 18,
+    naziv: "makovnjaca",
+    glavniSastojak: "mak",
+    vremePripreme: "220minuta",
+    status: "active",
+  },
+  {
+    id: 19,
+    naziv: "krofne",
+    glavniSastojak: "dzem",
+    vremePripreme: "140minuta",
+    status: "active",
+  },
+  {
+    id: 20,
+    naziv: "corba",
+    glavniSastojak: "karfiol",
+    vremePripreme: "40minuta",
+    status: "active",
+  }
+];
+
+module.exports = recepti;
